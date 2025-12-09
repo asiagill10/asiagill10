@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hola, em dic *Asia Gill*
 
-<!--
-**asiagill10/asiagill10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mi
+- 🔭 Actualment estudiant **ASIX**  
+- 🌱 Fet: **Batxillerat Tecnològic**  i **PAU**
+- 🕴️ Objectius: Entrar a **Enginyeria Aeroespacials**
+- ⚡ Fun fact: La Terra en realitat no es rodona.
 
-Here are some ideas to get you started:
+## 🛠️ Skills Tecnològiques
+### 📋 Llenguatges
+[![My Skills](https://skillicons.dev/icons?i=html,css,python&theme=light)](https://skillicons.dev)
+### **🧑‍🏫 Programes**
+[![My Skills](https://skillicons.dev/icons?i=arduino,vscode,gmail,instagram&theme=light)](https://skillicons.dev)
+### **🐧🪟 SO i Més**
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,docker,&theme=light)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contacte
+### Email: **rgill554@boscdelacoma.cat**
