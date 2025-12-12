@@ -12,7 +12,6 @@
 [![My Skills](https://skillicons.dev/icons?i=arduino,vscode,gmail,instagram&theme=light)](https://skillicons.dev)
 ### 🐧🪟 SO i Més
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,docker,&theme=light)](https://skillicons.dev)
-### 🤖 Intel·ligències Artificials
-(NO TROBO FOTOS)
+
 ## 📫 Contacte
 ### Email: **rgill554@boscdelacoma.cat**
