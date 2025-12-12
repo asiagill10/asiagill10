@@ -3,8 +3,7 @@
 ## 🚀 Sobre mi
 - 🔭 Actualment estudiant **ASIX**  
 - 🌱 Fet: **Batxillerat Tecnològic** i **PAU**
-- 🕴️ Objectius: Entrar a **Enginyeria Aeroespacial**
-- ⚡ Fun fact: La Terra en realitat no és rodona.
+- 🏔️ Objectius: Entrar a **Enginyeria Aeroespacial**
 
 ## 🛠️ Habilitats Tecnològiques
 ### 📋 Llenguatges
