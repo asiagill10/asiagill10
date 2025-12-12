@@ -3,16 +3,17 @@
 ## 🚀 Sobre mi
 - 🔭 Actualment estudiant **ASIX**  
 - 🌱 Fet: **Batxillerat Tecnològic** i **PAU**
-- 🕴️ Objectius: Entrar a **Enginyeria Aeroespacials**
-- ⚡ Fun fact: La Terra en realitat no es rodona.
+- 🕴️ Objectius: Entrar a **Enginyeria Aeroespacial**
+- ⚡ Fun fact: La Terra en realitat no és rodona.
 
 ## 🛠️ Habilitats Tecnològiques
 ### 📋 Llenguatges
 [![My Skills](https://skillicons.dev/icons?i=html,css,python&theme=light)](https://skillicons.dev)
-### **🧑‍🏫 Programes**
+### 🧑‍🏫 Programes
 [![My Skills](https://skillicons.dev/icons?i=arduino,vscode,gmail,instagram&theme=light)](https://skillicons.dev)
-### **🐧🪟 SO i Més**
+### 🐧🪟 SO i Més
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,docker,&theme=light)](https://skillicons.dev)
-
+### 🤖 Intel·ligències Artificials
+(NO TROBO FOTOS)
 ## 📫 Contacte
 ### Email: **rgill554@boscdelacoma.cat**
