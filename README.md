@@ -2,11 +2,11 @@
 
 ## 🚀 Sobre mi
 - 🔭 Actualment estudiant **ASIX**  
-- 🌱 Fet: **Batxillerat Tecnològic**  i **PAU**
+- 🌱 Fet: **Batxillerat Tecnològic** i **PAU**
 - 🕴️ Objectius: Entrar a **Enginyeria Aeroespacials**
 - ⚡ Fun fact: La Terra en realitat no es rodona.
 
-## 🛠️ Skills Tecnològiques
+## 🛠️ Habilitats Tecnològiques
 ### 📋 Llenguatges
 [![My Skills](https://skillicons.dev/icons?i=html,css,python&theme=light)](https://skillicons.dev)
 ### **🧑‍🏫 Programes**
