@@ -1,4 +1,26 @@
----
+# 👋 Hola, em dic *Asia Gill*
+
+## 🚀 Sobre mi
+- 🔭 Actualment estudiant **ASIX**  
+- 🌱 Fet: **Batxillerat Tecnològic** i **PAU**
+- 🏔️ Objectius: Entrar a **Enginyeria Aeroespacial**
+
+## 🛠️ Habilitats Tecnològiques
+### 📋 Llenguatges
+[![My Skills](https://skillicons.dev/icons?i=html,css,python&theme=light)](https://skillicons.dev)
+### 🧑‍🏫 Programes
+[![My Skills](https://skillicons.dev/icons?i=arduino,vscode,gmail,instagram&theme=light)](https://skillicons.dev)
+### 🐧🪟 SO i Més
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,docker,&theme=light)](https://skillicons.dev)
+
+## 📊 Estadístiques Github
+<p align="start">
+  <img src="https://github-readme-stats.vercel.app/api?username=asiagill10&show_icons=true&theme=tokyonight" />
+</p>
+
+## 📫 Contacte
+### Email: **rgill554@boscdelacoma.cat**
+```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣾⣦⣶⣧⣾⣮⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⣿⣿⣿⣿⣿⣿⣿⣷⣶⣦⣄⡀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⢰⠘⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠝⠉⠉⠁⠉⠙⠻⣿⣿⣿⣿⣿⣄⡀⠀⠀⠀
@@ -20,21 +42,4 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⠿⡞⣘⢻⣿⡟⠀⢿⠸⠇⣼⣿⣿⣿⣿⣿⣿⣿⣆⡀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣽⣿⣿⣧⡟⡟⢪⢿⠵⢷⠽⣼⣦⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿
 
----
-# 👋 Hola, em dic *Asia Gill*
-
-## 🚀 Sobre mi
-- 🔭 Actualment estudiant **ASIX**  
-- 🌱 Fet: **Batxillerat Tecnològic** i **PAU**
-- 🏔️ Objectius: Entrar a **Enginyeria Aeroespacial**
-
-## 🛠️ Habilitats Tecnològiques
-### 📋 Llenguatges
-[![My Skills](https://skillicons.dev/icons?i=html,css,python&theme=light)](https://skillicons.dev)
-### 🧑‍🏫 Programes
-[![My Skills](https://skillicons.dev/icons?i=arduino,vscode,gmail,instagram&theme=light)](https://skillicons.dev)
-### 🐧🪟 SO i Més
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,docker,&theme=light)](https://skillicons.dev)
-
-## 📫 Contacte
-### Email: **rgill554@boscdelacoma.cat**
+```
