@@ -1,5 +1,6 @@
-# 👋 Hola, em dic *Asia Gill*
-
+![👋 Hola, em dic Asia Gill](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+# 👋 Hola, em dic *Asia Gill* <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+![Profile views](https://komarev.com/ghpvc/?username=asiagill10&label=Profile%20views&color=0e75b6&style=flat)
 ## 🚀 Sobre mi
 - 🔭 Actualment estudiant **ASIX**  
 - 🌱 Fet: **Batxillerat Tecnològic** i **PAU**
