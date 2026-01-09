@@ -9,9 +9,9 @@
 ### 📋 Llenguatges
 [![My Skills](https://skillicons.dev/icons?i=html,css,python&theme=light)](https://skillicons.dev)
 ### 🧑‍🏫 Programes
-[![My Skills](https://skillicons.dev/icons?i=arduino,vscode,gmail,instagram&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,vscode&theme=light)](https://skillicons.dev)
 ### 🐧🪟 SO i Més
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,docker,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,docker&theme=light)](https://skillicons.dev)
 
 ## 📊 Estadístiques Github
 <p align="start">
