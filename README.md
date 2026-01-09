@@ -15,7 +15,13 @@
 
 ## 📊 Estadístiques Github
 <p align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=asiagill10&show_icons=true&theme=tokyonight" />
+  <img src="https://gh-stats-api.fly.dev/api?username=asiagill10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</p>
+<p align="start">
+  <img src="https://streak-stats.demolab.com?user=asiagill10&theme=tokyonight" />
+</p>
+<p align="start">
+  <img src="https://github-profile-trophy.vercel.app/?username=asiagill10&theme=tokyonight" />
 </p>
 
 ## 📫 Contacte
